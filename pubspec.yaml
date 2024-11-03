@@ -1,5 +1,5 @@
-description: A Flutter package to notify about external drives
-description: "A new Flutter plugin project."
+name: external_drive_notifier
+description: "A Flutter package to notify about external drives."
 version: 0.0.1
 homepage:
 
